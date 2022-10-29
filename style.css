@@ -37,7 +37,7 @@ img {
 	padding-top: 20px;
 }
 
-header {
+.title {
 	color: hsl(0, 0%, 95%);
 	font-family: "Big Shoulders Display", cursive;
 	font-size: 2rem;
