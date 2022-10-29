@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-using-flex-oWoKxOEHQt)
-- Live Site URL: [Add live site URL here](https://3-column-card-xpatryk8.netlify.app)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-page-using-flex-oWoKxOEHQt)
+- Live Site URL: [Link](https://3-column-card-xpatryk8.netlify.app)
 
 ## My process
 
@@ -37,8 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/xPatryk8)
+- Frontend Mentor - [@xPatryk8](https://www.frontendmentor.io/profile/xPatryk8)
