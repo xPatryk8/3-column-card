@@ -75,3 +75,64 @@ button {
 .luxury-box button {
 	color: hsl(179, 100%, 13%);
 }
+
+.attribution {
+	text-align: center;
+}
+
+@media only screen and (max-width: 550px) {
+	html {
+		height: 200%;
+	}
+
+	.container {
+		flex-direction: column;
+	}
+
+	.sedans-box {
+		border-bottom-left-radius: 0;
+		border-top-right-radius: 8px;
+	}
+
+	.luxury-box {
+		border-top-right-radius: 0;
+		border-bottom-left-radius: 8px;
+	}
+
+	.description {
+		max-width: 250px;
+		padding: 10px 0 10px 30px;
+	}
+
+	button {
+		margin: 0 20px 35px 28px;
+	}
+}
+
+@media only screen and (min-width: 551px) and (max-width: 750px) {
+	html {
+		height: 150%;
+	}
+	.container {
+		flex-direction: column;
+	}
+
+	.sedans-box {
+		border-bottom-left-radius: 0;
+		border-top-right-radius: 8px;
+	}
+
+	.luxury-box {
+		border-top-right-radius: 0;
+		border-bottom-left-radius: 8px;
+	}
+
+	.description {
+		max-width: 250px;
+		padding: 10px 0 10px 30px;
+	}
+
+	button {
+		margin: 0 20px 35px 28px;
+	}
+}
